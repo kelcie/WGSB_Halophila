@@ -1,0 +1,60 @@
+==================================================
+file name: halophila_stipulacea_illumina_genome.fasta
+sequences:       3215106
+total length: 3672263174 bp  (3672169733 bp excl N/X-runs)
+GC level:         43.33 %
+bases masked:  109718104 bp ( 2.99 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       216215     34529476 bp    0.94 %
+   SINEs:              354        27127 bp    0.00 %
+   Penelope          24029      2007363 bp    0.05 %
+   LINEs:            44484      3667479 bp    0.10 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       2465       287401 bp    0.01 %
+     R1/LOA/Jockey     673        56250 bp    0.00 %
+     R2/R4/NeSL        199        29484 bp    0.00 %
+     RTE/Bov-B        1838       282379 bp    0.01 %
+     L1/CIN4         13186       853413 bp    0.02 %
+   LTR elements:    171377     30834870 bp    0.84 %
+     BEL/Pao          2511       184866 bp    0.01 %
+     Ty1/Copia       21263      3814221 bp    0.10 %
+     Gypsy/DIRS1     93955     22903956 bp    0.62 %
+       Retroviral    42577      3206814 bp    0.09 %
+
+DNA transposons     149485     13769466 bp    0.37 %
+   hobo-Activator    28160      3353379 bp    0.09 %
+   Tc1-IS630-Pogo     1099       101800 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            432        24883 bp    0.00 %
+   Tourist/Harbinger  3930       220584 bp    0.01 %
+   Other (Mirage,      999        73707 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       4500       377555 bp    0.01 %
+
+Unclassified:         1061       136304 bp    0.00 %
+
+Total interspersed repeats:    48435246 bp    1.32 %
+
+
+Small RNA:            8964       704269 bp    0.02 %
+
+Satellites:          10148      1316956 bp    0.04 %
+Simple repeats:     808164     45266239 bp    1.23 %
+Low complexity:     184565     13621126 bp    0.37 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+  Runs of >=20 X/Ns in query were excluded in % calcs
+
+
+The query species was assumed to be root          
+RepeatMasker Combined Database: Dfam_3.1
+                                         
+run with rmblastn version 2.10.0+
+
